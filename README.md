@@ -74,7 +74,7 @@ I build structured, reliable data workflows that power analytics and ML-ready da
 
 - **Stanford University — Summer Program (Data/Analytics Exposure)**
   - Participated in an immersive summer program with early exposure to analytical thinking and coding
-  - Currently rebuilding a clean write-up of the project/code as part of my portfolio (details coming soon)
+  - Completed hands-on labs in Python-based data wrangling and exploratory analysis (cleaning, transforms, aggregations, summary statistics, basic visual checks).
 
 ---
 
