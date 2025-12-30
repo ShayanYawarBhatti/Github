@@ -1,6 +1,6 @@
 # Shayan Yawar Bhatti 
 **Data Analyst @ IntelliLight AI** | SQL • Python • Tableau • Analytics Engineering  
-Philadelphia, PA (formerly Colgate University, Hamilton, NY)
+📍 Philadelphia, PA (formerly Colgate University, Hamilton, NY)
 
 **Links**
 - LinkedIn: https://www.linkedin.com/in/shayan-yawar-bhatti/
@@ -17,7 +17,7 @@ I build structured, reliable data workflows that power analytics and ML-ready da
 
 ## Featured Work
 ### SQL Interview Practice — DataLemur (100+ Solutions)
-**Repo:** https://github.com/YOUR_GITHUB_USERNAME/YOUR_SQL_REPO_LINK
+**Repo:** https://github.com/ShayanYawarBhatti/YOUR_SQL_REPO_LINK
 
 **What this demonstrates**
 - Core analytics SQL: **joins, CTEs, aggregations, window functions, subqueries**
@@ -93,6 +93,6 @@ If you’re hiring for **Data Analyst / BI Analyst / Junior Data Analyst / Data 
 
 ---
 
-## Contact
+## Love to Connect!
 Best: LinkedIn DM 
 LinkedIn: https://www.linkedin.com/in/shayan-yawar-bhatti/
