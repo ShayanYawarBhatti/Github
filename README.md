@@ -8,6 +8,12 @@
 
 ---
 
+## Education
+**Colgate University** — B.S. Computer Science (Aug 2021 – Aug 2025)  
+Activities: Colgate Data & AI Team, Colgate Coders, Budget Allocation Committee, South Asian Cultural Club, Cricket Club, Equestrian Team
+
+---
+
 ## Snapshot
 I build structured, reliable data workflows that power analytics and ML-ready datasets. My work focuses on **data quality, automation, and decision-ready reporting**—with an engineering mindset around **maintainability, observability, and reproducibility**.
 
@@ -61,12 +67,6 @@ I build structured, reliable data workflows that power analytics and ML-ready da
 
 ---
 
-## Education
-**Colgate University** — B.S. Computer Science (Aug 2021 – Aug 2025)  
-Activities: Colgate Data & AI Team, Colgate Coders, Budget Allocation Committee, South Asian Cultural Club, Cricket Club, Equestrian Team
-
----
-
 ## Technical Skills (Recruiter Scan)
 **SQL:** Joins • Window Functions • CTEs • Aggregations • Subqueries • Data Cleaning  
 **Python:** pandas • NumPy • basic ML workflows • EDA & automation  
@@ -94,6 +94,6 @@ If you’re hiring for **Data Analyst / BI Analyst / Junior Data Analyst / Data 
 
 ---
 
-## Love to Connect!
-Best: LinkedIn DM 
+## Would Love to Connect!
+Best: LinkedIn DM  
 LinkedIn: https://www.linkedin.com/in/shayan-yawar-bhatti/
