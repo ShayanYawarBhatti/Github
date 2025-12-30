@@ -17,7 +17,7 @@ I build structured, reliable data workflows that power analytics and ML-ready da
 
 ## Featured Work
 ### SQL Interview Practice — DataLemur (100+ Solutions)
-**Repo 1:** (https://github.com/ShayanYawarBhatti/sql-datalemur-archive.git)
+**Repo 1:** (https://github.com/ShayanYawarBhatti/sql-datalemur-archive.git)  
 **Repo 2:** (https://github.com/ShayanYawarBhatti/sql-datalemur-patterns.git)
 
 **What this demonstrates**
