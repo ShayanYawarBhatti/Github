@@ -67,6 +67,17 @@ I build structured, reliable data workflows that power analytics and ML-ready da
 
 ---
 
+## Research & Academic Exploration
+- **University of Oxford — Research Scholar (Jun 2017 – Aug 2017)**
+  - Strengthened quantitative foundations through advanced algebra and applied mathematics work
+  - Applied mathematical modeling to multi-variable scenarios; improved statistical intuition via probability-based analyses
+
+- **Stanford University — Summer Program (Data/Analytics Exposure)**
+  - Participated in an immersive summer program with early exposure to analytical thinking and coding
+  - Currently rebuilding a clean write-up of the project/code as part of my portfolio (details coming soon)
+
+---
+
 ## Technical Skills (Recruiter Scan)
 **SQL:** Joins • Window Functions • CTEs • Aggregations • Subqueries • Data Cleaning  
 **Python:** pandas • NumPy • basic ML workflows • EDA & automation  
