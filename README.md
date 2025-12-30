@@ -17,7 +17,7 @@ I build structured, reliable data workflows that power analytics and ML-ready da
 
 ## Featured Work
 ### SQL Interview Practice — DataLemur (100+ Solutions)
-**Repo:** https://github.com/ShayanYawarBhatti/YOUR_SQL_REPO_LINK
+**Repo:** (https://github.com/ShayanYawarBhatti/sql-datalemur-archive.git)
 
 **What this demonstrates**
 - Core analytics SQL: **joins, CTEs, aggregations, window functions, subqueries**
