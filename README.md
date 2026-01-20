@@ -55,7 +55,7 @@ I build structured, reliable data workflows that power analytics and ML-ready da
 - Cleaned **2,000+** academic/admin records using Excel (INDEX-MATCH, VLOOKUP, validation), reducing inconsistencies by **30%**
 - Built multi-sheet dashboards with PivotTables/calculated fields to track research + operational performance
 
-### MIT — AI & Data Analytics Fellow (Jul 2023 – Aug 2023)
+### MIT — ML & Data Analytics Fellow (Jul 2023 – Aug 2023)
 - Built & evaluated a scikit-learn Logistic Regression classifier, achieving ~**82%** accuracy through feature refinement
 - Produced visual experiment summaries (Matplotlib + tabular reporting) to compare model runs and communicate results
 
