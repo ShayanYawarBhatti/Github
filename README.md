@@ -109,5 +109,5 @@ If you’re hiring for **Data Analyst / BI Analyst / Junior Data Analyst / Data 
 
 ## Would Love to Connect!
 Best: Portfolio Website or LinkedIn DM
-Website: https://www.shayanbhatti.com
-LinkedIn: https://www.linkedin.com/in/shayan-yawar-bhatti/
+- Website: https://www.shayanbhatti.com
+- LinkedIn: https://www.linkedin.com/in/shayan-yawar-bhatti/
