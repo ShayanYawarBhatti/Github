@@ -1,4 +1,4 @@
-# Introduction: Shayan Yawar Bhatti 
+# Shayan Yawar Bhatti 
 **Data Analyst @ IntelliLight AI** | SQL • Python • Tableau • Analytics Engineering  
 📍 Philadelphia, PA (formerly Colgate University, Hamilton, NY)
 
