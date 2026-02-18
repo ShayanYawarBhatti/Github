@@ -4,6 +4,7 @@
 
 **Links**
 - LinkedIn: https://www.linkedin.com/in/shayan-yawar-bhatti/
+- Portfolio Website: https://www.shayanbhatti.com/
 - GitHub: https://github.com/ShayanYawarBhatti
 - Tableau: https://public.tableau.com/app/profile/shayan.bhatti
 
@@ -102,10 +103,11 @@ I build structured, reliable data workflows that power analytics and ML-ready da
 **2) Cohort / Retention Analysis** (SQL + Python + dashboard)  
 **3) Funnel / Experiment Analysis** (SQL + Python)
 
-If you’re hiring for **Data Analyst / BI Analyst / Junior Data Analyst / Data Specialist / Data Associate**, I’m open to roles where I can contribute to high-impact analytics and continue growing toward analytics engineering and ML data infrastructure.
+If you’re hiring for **Data Analyst / BI Analyst / Junior Data Analyst / Data Specialist / Data Associate / Data Consultant**, I’m open to roles where I can contribute to high-impact analytics and continue growing toward analytics engineering and ML data infrastructure.
 
 ---
 
 ## Would Love to Connect!
-Best: LinkedIn DM  
+Best: Portfolio Website or LinkedIn DM
+Portfolio Website: https://www.shayanbhatti.com
 LinkedIn: https://www.linkedin.com/in/shayan-yawar-bhatti/
