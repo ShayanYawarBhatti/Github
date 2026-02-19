@@ -7,6 +7,7 @@
 - Website: https://www.shayanbhatti.com/
 - GitHub: https://github.com/ShayanYawarBhatti
 - Tableau: https://public.tableau.com/app/profile/shayan.bhatti
+- Kaggle: https://www.kaggle.com/shayanyawarbhatti
 
 ---
 
