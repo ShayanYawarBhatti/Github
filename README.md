@@ -71,13 +71,13 @@ I build structured, reliable data workflows that power analytics and ML-ready da
 ---
 
 ## Research & Academic Exploration
-- **University of Oxford — Research Scholar (Jun 2017 – Aug 2017)**
+- **University of Oxford — Summer Research (Jun 2017 – Aug 2017)**
   - Strengthened quantitative foundations through advanced algebra and applied mathematics work
   - Applied mathematical modeling to multi-variable scenarios; improved statistical intuition via probability-based analyses
 
-- **Stanford University — Summer Program (Data/Analytics Exposure)**
-  - Participated in an immersive summer program with early exposure to analytical thinking and coding
-  - Completed hands-on labs in Python-based data wrangling and exploratory analysis (cleaning, transforms, aggregations, summary statistics, basic visual checks).
+- **Stanford University — Summer Research (June 2018 - Aug 2018)**
+  - Achieved 95% test accuracy on handwritten digit classification by fine-tuning a convolutional neural network (CNN) pipeline using scikit-learn, improving performance through iterative parameter tuning and cross-validation.
+  - Visualized model learning behavior using Matplotlib, generating training vs. validation accuracy/loss graphs to optimize model structure and avoid overfitting.
 
 ---
 
