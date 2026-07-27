@@ -53,7 +53,7 @@ I build structured, reliable data workflows that power analytics and ML-ready da
 - Analyzed response datasets (**700+ rows**) across simulation cycles to identify user-behavior patterns and support targeted interventions
 - Developed standardized reporting templates adopted by **10+** team members to improve consistency
 
-### Colgate University — Junior Data Analyst Consultant (Jan 2022 – Feb 2023)
+### Colgate University — Junior Data Consultant (Jan 2022 – Feb 2023)
 - Cleaned **2,000+** academic/admin records using Excel (INDEX-MATCH, VLOOKUP, validation), reducing inconsistencies by **30%**
 - Built multi-sheet dashboards with PivotTables/calculated fields to track research + operational performance
 
