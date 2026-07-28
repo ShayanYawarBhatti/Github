@@ -1,36 +1,17 @@
-## Projects
+**Projects:**
 
-### [Customer Churn & Retention Analytics](https://github.com/ShayanYawarBhatti/customer-churn-retention-analytics)
+1. **[Customer Churn & Retention Analytics](https://github.com/ShayanYawarBhatti/customer-churn-retention-analytics):** An end-to-end analysis of 100,000 streaming-subscriber records using SQL and Python to measure churn, identify high-risk customer segments, and translate the findings into evidence-based retention recommendations.
 
-Analyzed 100,000 streaming-subscriber records to measure churn patterns, quantify monthly-charge exposure, identify high-risk customer segments, and develop evidence-based retention recommendations.  
-**Tools:** SQL, Python, pandas, SQLite, Jupyter Notebook · **Deliverables:** Reproducible analysis, visualizations, and executive report
+2. **[Global COVID-19 SQL Analysis](https://github.com/ShayanYawarBhatti/global-covid-sql-analysis-project):** An end-to-end SQL Server analysis of global COVID-19 cases, deaths, infection rates, and vaccinations using joins, CTEs, temporary tables, window functions, and reusable views, with key findings presented through an interactive Tableau dashboard.
 
-### [Bike Sales Excel Dashboard](https://github.com/ShayanYawarBhatti/bike-sales-excel-dashboard)
+3. **[Bike Sales Excel Dashboard](https://github.com/ShayanYawarBhatti/bike-sales-excel-dashboard):** An interactive Excel dashboard analyzing bike-purchase behavior across customer income, age, gender, and commute distance using PivotTables, PivotCharts, formulas, and slicers.
 
-Built an interactive Excel dashboard to analyze bike-purchase behavior across customer income, age, gender, and commute distance, with slicers enabling real-time exploration.  
-**Tools:** Excel, PivotTables, PivotCharts, formulas, and slicers · **Deliverable:** Interactive business-intelligence dashboard
+4. **[Nashville Housing Data Cleaning](https://github.com/ShayanYawarBhatti/nashville-housing-data-cleaning):** A SQL Server data-cleaning project that transforms a messy 56,000-row housing export into an analysis-ready table by standardizing dates, recovering missing addresses, parsing composite fields, and removing duplicates.
 
-### [Nashville Housing Data Cleaning](https://github.com/ShayanYawarBhatti/nashville-housing-data-cleaning)
+5. **[Movie Correlation Analysis](https://github.com/ShayanYawarBhatti/movie-correlation-python-analysis):** A Python exploratory analysis of movie-industry data examining which financial and audience variables are most strongly associated with gross revenue through data cleaning, visualization, and correlation analysis.
 
-Transformed a messy 56,000-row housing export into an analysis-ready SQL Server table by standardizing dates, recovering missing addresses, parsing composite fields, and removing duplicates.  
-**Tools:** SQL Server, T-SQL, CTEs, string functions, and window functions · **Deliverable:** Documented data-cleaning workflow
+6. **[Amazon Price Tracker](https://github.com/ShayanYawarBhatti/amazon-price-tracker-project):** A Python data pipeline that collects Amazon product prices, stores historical observations, and sends automated alerts when prices fall below a defined threshold.
 
-### [Movie Correlation Analysis](https://github.com/ShayanYawarBhatti/movie-correlation-python-analysis)
+**Profiles:**
 
-Explored movie-industry data to determine which financial and audience variables were most strongly associated with gross revenue through structured cleaning, visualization, and correlation analysis.  
-**Tools:** Python, pandas, NumPy, Matplotlib, and Seaborn · **Deliverable:** Jupyter-based exploratory analysis
-
-### [Amazon Price Tracker](https://github.com/ShayanYawarBhatti/amazon-price-tracker-project)
-
-Developed a Python data pipeline that collects Amazon product prices, stores historical observations, and triggers automated alerts when prices fall below a defined threshold.  
-**Tools:** Python, Beautiful Soup, requests, pandas, and email automation · **Deliverable:** Automated price-monitoring workflow
-
-## Technical Toolkit
-
-| Area | Tools and capabilities |
-|---|---|
-| **SQL** | SQL Server, SQLite, joins, CTEs, window functions, aggregations, subqueries, and data cleaning |
-| **Python** | pandas, NumPy, Matplotlib, Seaborn, scikit-learn, EDA, and workflow automation |
-| **Excel & BI** | PivotTables, PivotCharts, dashboards, formulas, slicers, KPI reporting, and Tableau |
-| **Analytics** | Data validation, segmentation, trend analysis, correlation analysis, KPI design, and basic machine-learning workflows |
-| **Workflow** | Git, GitHub, Jupyter Notebook, and VS Code |
+[LinkedIn](https://www.linkedin.com/in/shayan-yawar-bhatti/) · [Portfolio Website](https://www.shayanbhatti.com/) · [GitHub](https://github.com/ShayanYawarBhatti) · [Tableau](https://public.tableau.com/app/profile/shayan.bhatti) · [Kaggle](https://www.kaggle.com/shayanyawarbhatti)
