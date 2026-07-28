@@ -1,5 +1,3 @@
-# Shayan Yawar Bhatti
-
 **Data Analyst @ IntelliLight AI | SQL · Python · Excel · Tableau**  
 📍 NYC Metropolitan Area
 
