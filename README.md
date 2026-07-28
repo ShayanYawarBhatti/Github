@@ -1,17 +1,17 @@
 **Projects:**
 
-1. **Customer Churn & Retention Analytics** [↗](https://github.com/ShayanYawarBhatti/customer-churn-retention-analytics): An end-to-end analysis of 100,000 streaming-subscriber records using SQL and Python to measure churn, identify high-risk customer segments, and translate the findings into evidence-based retention recommendations.
+**1. [Customer Churn & Retention Analytics](https://github.com/ShayanYawarBhatti/customer-churn-retention-analytics):** Analyzed 100,000 streaming subscribers with SQL, Python, and pandas to quantify $433K in monthly charges associated with churn, identify monthly contracts and pre-outcome support escalation as actionable risk signals, and deliver a ranked retention plan with an executive report.
 
-2. **Global COVID-19 SQL Analysis** [↗](https://github.com/ShayanYawarBhatti/global-covid-sql-analysis-project): An end-to-end SQL Server analysis of global COVID-19 cases, deaths, infection rates, and vaccinations using joins, CTEs, temporary tables, window functions, and reusable views, with key findings presented through an interactive Tableau dashboard.
+**2. [Global COVID-19 SQL Analysis](https://github.com/ShayanYawarBhatti/global-covid-sql-analysis-project):** Built a typed SQL Server pipeline for 85K+ daily records across 210 countries, using joins, CTEs, window functions, and reusable views to analyze infection, mortality, and vaccination trends and deliver an interactive Tableau dashboard.
 
-3. **Bike Sales Excel Dashboard** [↗](https://github.com/ShayanYawarBhatti/bike-sales-excel-dashboard): An interactive Excel dashboard analyzing bike-purchase behavior across customer income, age, gender, and commute distance using PivotTables, PivotCharts, formulas, and slicers.
+**3. [Bike Sales Excel Dashboard](https://github.com/ShayanYawarBhatti/bike-sales-excel-dashboard):** Cleaned 1,026 survey records into 1,000 unique customers and built an interactive Excel dashboard with PivotTables, PivotCharts, formulas, and slicers; found that ages 31–54 generated 80% of purchases and short commuters converted at nearly twice the rate of those traveling over 10 miles.
 
-4. **Nashville Housing Data Cleaning** [↗](https://github.com/ShayanYawarBhatti/nashville-housing-data-cleaning): A SQL Server data-cleaning project that transforms a messy 56,000-row housing export into an analysis-ready table by standardizing dates, recovering missing addresses, parsing composite fields, and removing duplicates.
+**4. [Nashville Housing Data Cleaning](https://github.com/ShayanYawarBhatti/nashville-housing-data-cleaning):** Designed a seven-step T-SQL pipeline for 56K+ housing records, using lossless staging, self-joins, string parsing, CTEs, and `ROW_NUMBER()` to recover missing addresses, standardize fields, eliminate duplicate sales, and produce a trustworthy analysis-ready table.
 
-5. **Movie Correlation Analysis** [↗](https://github.com/ShayanYawarBhatti/movie-correlation-python-analysis): A Python exploratory analysis of movie-industry data examining which financial and audience variables are most strongly associated with gross revenue through data cleaning, visualization, and correlation analysis.
+**5. [Movie Correlation Analysis](https://github.com/ShayanYawarBhatti/movie-correlation-python-analysis):** Used Python, pandas, Pearson correlation, and regression visualizations to evaluate movie revenue drivers, identifying budget and audience votes as the strongest positive relationships with gross revenue while documenting the limits of encoded categorical variables and observational data.
 
-6. **Amazon Price Tracker** [↗](https://github.com/ShayanYawarBhatti/amazon-price-tracker-project): A Python data pipeline that collects Amazon product prices, stores historical observations, and sends automated alerts when prices fall below a defined threshold.
+**6. [Amazon Price Tracker](https://github.com/ShayanYawarBhatti/amazon-price-tracker-project):** Engineered a modular Python pipeline that scrapes live Amazon prices, appends timestamped observations to a historical CSV dataset, protects credentials through environment variables, and triggers threshold-based email alerts through repeatable, scheduler-ready runs.
 
 **Profiles:**
 
-LinkedIn [↗](https://www.linkedin.com/in/shayan-yawar-bhatti/) · Portfolio Website [↗](https://www.shayanbhatti.com/) · GitHub [↗](https://github.com/ShayanYawarBhatti) · Tableau [↗](https://public.tableau.com/app/profile/shayan.bhatti) · Kaggle [↗](https://www.kaggle.com/shayanyawarbhatti)
+[LinkedIn](https://www.linkedin.com/in/shayan-yawar-bhatti/) · [Portfolio Website](https://www.shayanbhatti.com/) · [GitHub](https://github.com/ShayanYawarBhatti) · [Tableau](https://public.tableau.com/app/profile/shayan.bhatti) · [Kaggle](https://www.kaggle.com/shayanyawarbhatti)
