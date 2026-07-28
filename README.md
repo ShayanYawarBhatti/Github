@@ -1,13 +1,4 @@
-**Data Analyst @ IntelliLight AI | SQL · Python · Excel · Tableau**  
-📍 NYC Metropolitan Area
-
-I build end-to-end analytics projects that transform raw, messy data into reliable insights and decision-ready reporting. My work spans data cleaning, SQL analysis, Python workflows, KPI development, and interactive dashboards, with an emphasis on accuracy, reproducibility, and clear business communication.
-
-## Profiles
-
-[LinkedIn](https://www.linkedin.com/in/shayan-yawar-bhatti/) · [Portfolio Website](https://www.shayanbhatti.com/) · [GitHub](https://github.com/ShayanYawarBhatti) · [Tableau](https://public.tableau.com/app/profile/shayan.bhatti) · [Kaggle](https://www.kaggle.com/shayanyawarbhatti)
-
-## Selected Projects
+## Projects
 
 ### [Customer Churn & Retention Analytics](https://github.com/ShayanYawarBhatti/customer-churn-retention-analytics)
 
