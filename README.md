@@ -1,114 +1,47 @@
-# Shayan Yawar Bhatti 
-**Data Analyst @ IntelliLight AI** | SQL • Python • Tableau • Analytics Engineering  
-📍 NYC, NY (formerly Colgate University, Hamilton, NY)
+# Shayan Yawar Bhatti
 
-**Links**
-- LinkedIn: https://www.linkedin.com/in/shayan-yawar-bhatti/
-- Website: https://www.shayanbhatti.com/
-- GitHub: https://github.com/ShayanYawarBhatti
-- Tableau: https://public.tableau.com/app/profile/shayan.bhatti
-- Kaggle: https://www.kaggle.com/shayanyawarbhatti
+**Data Analyst @ IntelliLight AI | SQL · Python · Excel · Tableau**  
+📍 NYC Metropolitan Area
 
----
+I build end-to-end analytics projects that transform raw, messy data into reliable insights and decision-ready reporting. My work spans data cleaning, SQL analysis, Python workflows, KPI development, and interactive dashboards, with an emphasis on accuracy, reproducibility, and clear business communication.
 
-## Education
-**Colgate University** — B.S. Computer Science (Aug 2021 – Aug 2025)  
-Activities: Colgate Data & AI Team, Colgate Coders, Budget Allocation Committee, South Asian Cultural Club, Cricket Club, Equestrian Team
+## Profiles
 
----
+[LinkedIn](https://www.linkedin.com/in/shayan-yawar-bhatti/) · [Portfolio Website](https://www.shayanbhatti.com/) · [GitHub](https://github.com/ShayanYawarBhatti) · [Tableau](https://public.tableau.com/app/profile/shayan.bhatti) · [Kaggle](https://www.kaggle.com/shayanyawarbhatti)
 
-## Snapshot
-I build structured, reliable data workflows that power analytics and ML-ready datasets. My work focuses on **data quality, automation, and decision-ready reporting**—with an engineering mindset around **maintainability, observability, and reproducibility**.
+## Selected Projects
 
-**Current focus:** scaling my portfolio with end-to-end case studies (**SQL → Python → Tableau**) while maintaining consistent proof-of-work through interview-grade SQL practice.
+### [Customer Churn & Retention Analytics](https://github.com/ShayanYawarBhatti/customer-churn-retention-analytics)
 
----
+Analyzed 100,000 streaming-subscriber records to measure churn patterns, quantify monthly-charge exposure, identify high-risk customer segments, and develop evidence-based retention recommendations.  
+**Tools:** SQL, Python, pandas, SQLite, Jupyter Notebook · **Deliverables:** Reproducible analysis, visualizations, and executive report
 
-## Featured Work
-### SQL Interview Practice — DataLemur (100+ Solutions)
-**Repo 1:** (https://github.com/ShayanYawarBhatti/sql-datalemur-archive.git)  
-**Repo 2:** (https://github.com/ShayanYawarBhatti/sql-datalemur-patterns.git)
+### [Bike Sales Excel Dashboard](https://github.com/ShayanYawarBhatti/bike-sales-excel-dashboard)
 
-**What this demonstrates**
-- Core analytics SQL: **joins, CTEs, aggregations, window functions, subqueries**
-- Pattern mastery: top-N per group, rolling metrics, cohort/retention patterns, ranking, weighted averages
-- Clean conventions: consistent formatting, clear assumptions, readable structure
+Built an interactive Excel dashboard to analyze bike-purchase behavior across customer income, age, gender, and commute distance, with slicers enabling real-time exploration.  
+**Tools:** Excel, PivotTables, PivotCharts, formulas, and slicers · **Deliverable:** Interactive business-intelligence dashboard
 
-**How to review (recruiter-friendly)**
-- Start with: `README.md` → then browse by topic folders (joins / windows / ctes / aggregations)
-- Each solution is written to be readable + debuggable
+### [Nashville Housing Data Cleaning](https://github.com/ShayanYawarBhatti/nashville-housing-data-cleaning)
 
-> Next milestone: publish 2–3 end-to-end portfolio projects with datasets + dashboards + writeups.
+Transformed a messy 56,000-row housing export into an analysis-ready SQL Server table by standardizing dates, recovering missing addresses, parsing composite fields, and removing duplicates.  
+**Tools:** SQL Server, T-SQL, CTEs, string functions, and window functions · **Deliverable:** Documented data-cleaning workflow
 
----
+### [Movie Correlation Analysis](https://github.com/ShayanYawarBhatti/movie-correlation-python-analysis)
 
-## Impact Highlights (Experience)
-### IntelliLight AI — Data Analyst (May 2025 – Present)
-- Automated KPI reporting workflows, reducing weekly analytics preparation time by **35%** (Excel dashboards + Python cleaning scripts)
-- Analyzed **10k+** product-usage records in pandas to identify performance bottlenecks; insights contributed to **28%** improvement in user engagement
-- Built a structured data validation pipeline that normalized metrics and increased reporting accuracy by **40%**
+Explored movie-industry data to determine which financial and audience variables were most strongly associated with gross revenue through structured cleaning, visualization, and correlation analysis.  
+**Tools:** Python, pandas, NumPy, Matplotlib, and Seaborn · **Deliverable:** Jupyter-based exploratory analysis
 
-### Colgate University — Cyber Security Data Specialist (Feb 2023 – May 2025)
-- Consolidated **400+** operational log entries/week into structured Excel dashboards, improving trend visibility and cutting reporting cycle time by **20%**
-- Analyzed response datasets (**700+ rows**) across simulation cycles to identify user-behavior patterns and support targeted interventions
-- Developed standardized reporting templates adopted by **10+** team members to improve consistency
+### [Amazon Price Tracker](https://github.com/ShayanYawarBhatti/amazon-price-tracker-project)
 
-### Colgate University — Junior Data Consultant (Jan 2022 – Feb 2023)
-- Cleaned **2,000+** academic/admin records using Excel (INDEX-MATCH, VLOOKUP, validation), reducing inconsistencies by **30%**
-- Built multi-sheet dashboards with PivotTables/calculated fields to track research + operational performance
+Developed a Python data pipeline that collects Amazon product prices, stores historical observations, and triggers automated alerts when prices fall below a defined threshold.  
+**Tools:** Python, Beautiful Soup, requests, pandas, and email automation · **Deliverable:** Automated price-monitoring workflow
 
-### MIT — ML & Data Analytics Fellow (Jul 2023 – Aug 2023)
-- Built & evaluated a scikit-learn Logistic Regression classifier, achieving ~**82%** accuracy through feature refinement
-- Produced visual experiment summaries (Matplotlib + tabular reporting) to compare model runs and communicate results
+## Technical Toolkit
 
----
-
-## Certifications
-- **Google Data Analytics Professional Certificate** (Issued Nov 2025)
-- **Salesforce Tableau Data Analyst** (Issued Dec 2025)
-- **Excel Skills for Advanced Business Specialization — Macquarie University** (Issued Dec 2025)
-
----
-
-## Research & Academic Exploration
-- **University of Oxford — Summer Research (Jun 2017 – Aug 2017)**
-  - Strengthened quantitative foundations through advanced algebra and applied mathematics work
-  - Applied mathematical modeling to multi-variable scenarios; improved statistical intuition via probability-based analyses
-
-- **Stanford University — Summer Research (June 2018 - Aug 2018)**
-  - Achieved 95% test accuracy on handwritten digit classification by fine-tuning a convolutional neural network (CNN) pipeline using scikit-learn, improving performance through iterative parameter tuning and cross-validation.
-  - Visualized model learning behavior using Matplotlib, generating training vs. validation accuracy/loss graphs to optimize model structure and avoid overfitting.
-
----
-
-## Technical Skills (Recruiter Scan)
-**SQL:** Joins • Window Functions • CTEs • Aggregations • Subqueries • Data Cleaning  
-**Python:** pandas • NumPy • basic ML workflows • EDA & automation  
-**BI/Analytics:** KPI design • dashboarding • reporting automation  
-**Visualization:** Tableau • Matplotlib  
-**Data/Engineering Concepts:** validation pipelines • transformation layers • warehouse concepts • API-based integration  
-**Tools:** Git/GitHub • Excel (PivotTables, dashboards)
-
----
-
-## Engineering Principles
-- Data integrity & accuracy over shortcuts
-- Simplicity first → scale through clarity
-- Documentation, traceability, and reproducible workflows
-- Measurable impact and iterative delivery
-
----
-
-## Portfolio Roadmap (Coming Soon)
-**1) KPI & Product Performance Deep-Dive** (SQL + Tableau)  
-**2) Cohort / Retention Analysis** (SQL + Python + dashboard)  
-**3) Funnel / Experiment Analysis** (SQL + Python)
-
-If you’re hiring for **Data Analyst / BI Analyst / Junior Data Analyst / Data Specialist / Data Associate / Data Consultant**, I’m open to roles where I can contribute to high-impact analytics and continue growing toward analytics engineering and ML data infrastructure.
-
----
-
-## Would Love to Connect!
-Best: Portfolio Website or LinkedIn DM
-- Website: https://www.shayanbhatti.com
-- LinkedIn: https://www.linkedin.com/in/shayan-yawar-bhatti/
+| Area | Tools and capabilities |
+|---|---|
+| **SQL** | SQL Server, SQLite, joins, CTEs, window functions, aggregations, subqueries, and data cleaning |
+| **Python** | pandas, NumPy, Matplotlib, Seaborn, scikit-learn, EDA, and workflow automation |
+| **Excel & BI** | PivotTables, PivotCharts, dashboards, formulas, slicers, KPI reporting, and Tableau |
+| **Analytics** | Data validation, segmentation, trend analysis, correlation analysis, KPI design, and basic machine-learning workflows |
+| **Workflow** | Git, GitHub, Jupyter Notebook, and VS Code |
