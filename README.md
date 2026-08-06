@@ -1,6 +1,6 @@
 **Projects:**
 
-**1. [Amazon E-Commerce SQL Analytics](https://github.com/ShayanYawarBhatti/amazon-ecommerce-sql-analytics):** Designed, loaded and audited a nine-table PostgreSQL schema over 21,629 e-commerce orders, answering 21 business questions with window functions, CTEs, and a transactional PL/pgSQL procedure — and proving four of them unanswerable, including a 13% return rate traceable entirely to 30 customers.
+**1. [Amazon E-Commerce Advanced SQL Analytics](https://github.com/ShayanYawarBhatti/amazon-ecommerce-sql-analytics):** Designed, loaded and audited a nine-table PostgreSQL schema over 21,629 e-commerce orders, answering 21 business questions with window functions, CTEs, and a transactional PL/pgSQL procedure — and proving four of them unanswerable, including a 13% return rate traceable entirely to 30 customers.
 
 **2. [Customer Churn & Retention Analytics](https://github.com/ShayanYawarBhatti/customer-churn-retention-analytics):** Analyzed 100,000 streaming subscribers with SQL, Python, and pandas to quantify $433K in monthly charges associated with churn, identify monthly contracts and pre-outcome support escalation as actionable risk signals, and deliver a ranked retention plan with an executive report.
 
